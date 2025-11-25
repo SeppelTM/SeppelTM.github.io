@@ -3,7 +3,7 @@
 Eine moderne Landing Page mit Links zu meinen Social-Media-Profilen und Kontaktmöglichkeiten.
 
 ## 🔗 Live Demo
-Die Seite ist erreichbar unter: [https://sebweiss.github.io](https://sebweiss.github.io)
+Die Seite ist erreichbar unter: [https://seppeltm.github.io](https://seppeltm.github.io)
 
 ## 📋 Über diese Seite
 Diese Seite dient als zentrale Anlaufstelle für alle meine Online-Profile und Kontaktmöglichkeiten.
